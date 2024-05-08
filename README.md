@@ -11,7 +11,7 @@ Employee Management is a RESTful API for managing employee records. It provides 
 ## Getting Started
 
 ### 1. Clone the Repository:
-git clone https://github.com/tarunram888/employeeManagement.git
+git clone -b master https://github.com/tarunram888/employeeManagement.git
 
 
 ### 2. Install Dependencies:
