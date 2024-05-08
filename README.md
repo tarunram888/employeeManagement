@@ -15,7 +15,7 @@ git clone https://github.com/tarunram888/employeeManagement.git
 
 
 ### 2. Install Dependencies:
-- cd employee-management
+- cd employeeManagement
 - go mod download
 
 
